@@ -1,7 +1,8 @@
 
 void main()
 {
+ int a,b,c;
  console.writeline("hello world");
- console.writeline("vip pro");
+ console.writeline("vip pro");
  console.readkey();
 }
