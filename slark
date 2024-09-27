@@ -1,5 +1,6 @@
 
 void main()
 {
- print("hello world");
+ console.writeline("hello world");
+ console.readkey();
 }
