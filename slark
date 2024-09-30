@@ -4,5 +4,7 @@ void main()
  int a,b,c;
  console.writeline("hello world");
  console.writeline("vip pro");
+ console.readline("insert a number:");
+ int a=int
  console.readkey();
 }
