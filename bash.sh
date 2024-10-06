@@ -9,8 +9,8 @@ CONFIG_PATH=".my.cnf"
 
 cat << EOF | sudo tee -a ${CONFIG_PATH}
 [client]
-user=${MYSQL_USER}
-password=${MYSQL_PASSWORD}
+user=root
+password=my-secret-pw
 host=localhost
 EOF
 
