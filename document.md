@@ -12,11 +12,11 @@ git status
 ```
 git add
 ```
-##  push commit to remote sever
-```
-git push
-```
 ## create new commit
 ```
 git commit
+```
+##  push commit to remote sever
+```
+git push
 ```
